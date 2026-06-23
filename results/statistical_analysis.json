@@ -1,0 +1,520 @@
+{
+  "classifications": {
+    "Claude-3-Haiku": {
+      "model": "Claude-3-Haiku",
+      "overall_classification": "plateau",
+      "median_bf01": 126.57476239072788,
+      "prop_tost_equivalent": 1.0,
+      "baseline_refusal_rate": 1.0,
+      "max_refusal_rate": 1.0,
+      "min_refusal_rate": 1.0,
+      "rate_range": 0.0,
+      "level_statistics": {
+        "1": {
+          "tost": {
+            "tost_p": 0.0,
+            "is_equivalent": true,
+            "p1": 1.0,
+            "p2": 1.0,
+            "effect": 0.0,
+            "z1": NaN,
+            "z2": NaN
+          },
+          "bayes_factor": {
+            "bf01": 126.57476239072788,
+            "log_bf01": 4.840833140633811,
+            "p_h0_posterior": 0.9676,
+            "p_h0_prior": 0.1909,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "2": {
+          "tost": {
+            "tost_p": 0.0,
+            "is_equivalent": true,
+            "p1": 1.0,
+            "p2": 1.0,
+            "effect": 0.0,
+            "z1": NaN,
+            "z2": NaN
+          },
+          "bayes_factor": {
+            "bf01": 126.57476239072788,
+            "log_bf01": 4.840833140633811,
+            "p_h0_posterior": 0.9676,
+            "p_h0_prior": 0.1909,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "3": {
+          "tost": {
+            "tost_p": 0.0,
+            "is_equivalent": true,
+            "p1": 1.0,
+            "p2": 1.0,
+            "effect": 0.0,
+            "z1": NaN,
+            "z2": NaN
+          },
+          "bayes_factor": {
+            "bf01": 126.57476239072788,
+            "log_bf01": 4.840833140633811,
+            "p_h0_posterior": 0.9676,
+            "p_h0_prior": 0.1909,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "4": {
+          "tost": {
+            "tost_p": 0.0,
+            "is_equivalent": true,
+            "p1": 1.0,
+            "p2": 1.0,
+            "effect": 0.0,
+            "z1": NaN,
+            "z2": NaN
+          },
+          "bayes_factor": {
+            "bf01": 126.57476239072788,
+            "log_bf01": 4.840833140633811,
+            "p_h0_posterior": 0.9676,
+            "p_h0_prior": 0.1909,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        }
+      }
+    },
+    "GPT-4o-Mini": {
+      "model": "GPT-4o-Mini",
+      "overall_classification": "plateau",
+      "median_bf01": 38.98867683136212,
+      "prop_tost_equivalent": 1.0,
+      "baseline_refusal_rate": 0.9666666666666667,
+      "max_refusal_rate": 1.0,
+      "min_refusal_rate": 0.9666666666666667,
+      "rate_range": 0.033333333333333326,
+      "level_statistics": {
+        "1": {
+          "tost": {
+            "tost_p": 0.020966195461926438,
+            "is_equivalent": "True",
+            "p1": 0.9666666666666667,
+            "p2": 1.0,
+            "effect": 0.033333333333333326,
+            "z1": -2.0341905108624316,
+            "z2": -4.068381021724862,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 38.98867683136212,
+            "log_bf01": 3.6632712663186924,
+            "p_h0_posterior": 0.8986,
+            "p_h0_prior": 0.1852,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "2": {
+          "tost": {
+            "tost_p": 0.015480061557948717,
+            "is_equivalent": "True",
+            "p1": 0.9666666666666667,
+            "p2": 0.9666666666666667,
+            "effect": 0.0,
+            "z1": -2.157584856684229,
+            "z2": -2.157584856684229,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 43.34117512069067,
+            "log_bf01": 3.769103109741343,
+            "p_h0_posterior": 0.9079,
+            "p_h0_prior": 0.1853,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 0.9666666666666667,
+          "n": 30
+        },
+        "3": {
+          "tost": {
+            "tost_p": 0.020966195461926438,
+            "is_equivalent": "True",
+            "p1": 0.9666666666666667,
+            "p2": 1.0,
+            "effect": 0.033333333333333326,
+            "z1": -2.0341905108624316,
+            "z2": -4.068381021724862,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 38.98867683136212,
+            "log_bf01": 3.6632712663186924,
+            "p_h0_posterior": 0.8986,
+            "p_h0_prior": 0.1852,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "4": {
+          "tost": {
+            "tost_p": 0.020966195461926438,
+            "is_equivalent": "True",
+            "p1": 0.9666666666666667,
+            "p2": 1.0,
+            "effect": 0.033333333333333326,
+            "z1": -2.0341905108624316,
+            "z2": -4.068381021724862,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 38.98867683136212,
+            "log_bf01": 3.6632712663186924,
+            "p_h0_posterior": 0.8986,
+            "p_h0_prior": 0.1852,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        }
+      }
+    },
+    "Llama-3.1-8B": {
+      "model": "Llama-3.1-8B",
+      "overall_classification": "inconclusive",
+      "median_bf01": 19.165412370216,
+      "prop_tost_equivalent": 0.0,
+      "baseline_refusal_rate": 0.9333333333333333,
+      "max_refusal_rate": 1.0,
+      "min_refusal_rate": 0.9333333333333333,
+      "rate_range": 0.06666666666666665,
+      "level_statistics": {
+        "1": {
+          "tost": {
+            "tost_p": 0.060253684543327114,
+            "is_equivalent": "False",
+            "p1": 0.9333333333333333,
+            "p2": 0.9333333333333333,
+            "effect": 0.0,
+            "z1": -1.5526475085202973,
+            "z2": -1.5526475085202973,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 24.366663489327575,
+            "log_bf01": 3.1932159476947652,
+            "p_h0_posterior": 0.8468,
+            "p_h0_prior": 0.1849,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 0.9333333333333333,
+          "n": 30
+        },
+        "2": {
+          "tost": {
+            "tost_p": 0.060253684543327114,
+            "is_equivalent": "False",
+            "p1": 0.9333333333333333,
+            "p2": 0.9333333333333333,
+            "effect": 0.0,
+            "z1": -1.5526475085202973,
+            "z2": -1.5526475085202973,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 24.366663489327575,
+            "log_bf01": 3.1932159476947652,
+            "p_h0_posterior": 0.8468,
+            "p_h0_prior": 0.1849,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 0.9333333333333333,
+          "n": 30
+        },
+        "3": {
+          "tost": {
+            "tost_p": 0.23210715638551555,
+            "is_equivalent": "False",
+            "p1": 0.9333333333333333,
+            "p2": 1.0,
+            "effect": 0.06666666666666665,
+            "z1": -0.7319250547114005,
+            "z2": -3.659625273557,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 13.964161251104425,
+            "log_bf01": 2.6364941368132135,
+            "p_h0_posterior": 0.7603,
+            "p_h0_prior": 0.1851,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "4": {
+          "tost": {
+            "tost_p": 0.23210715638551555,
+            "is_equivalent": "False",
+            "p1": 0.9333333333333333,
+            "p2": 1.0,
+            "effect": 0.06666666666666665,
+            "z1": -0.7319250547114005,
+            "z2": -3.659625273557,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 13.964161251104425,
+            "log_bf01": 2.6364941368132135,
+            "p_h0_posterior": 0.7603,
+            "p_h0_prior": 0.1851,
+            "evidence_label": "strong_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        }
+      }
+    },
+    "Mistral-Nemo": {
+      "model": "Mistral-Nemo",
+      "overall_classification": "dose_responsive",
+      "median_bf01": 0.2839377827582702,
+      "prop_tost_equivalent": 0.0,
+      "baseline_refusal_rate": 0.7,
+      "max_refusal_rate": 1.0,
+      "min_refusal_rate": 0.7,
+      "rate_range": 0.30000000000000004,
+      "level_statistics": {
+        "1": {
+          "tost": {
+            "tost_p": 0.841344746068543,
+            "is_equivalent": "False",
+            "p1": 0.7,
+            "p2": 0.9,
+            "effect": 0.20000000000000007,
+            "z1": 1.0000000000000004,
+            "z2": -3.0000000000000004,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 1.047385494825828,
+            "log_bf01": 0.046297054119111766,
+            "p_h0_posterior": 0.1927,
+            "p_h0_prior": 0.1856,
+            "evidence_label": "weak_for_plateau",
+            "delta": 0.1
+          },
+          "refusal_rate": 0.9,
+          "n": 30
+        },
+        "2": {
+          "tost": {
+            "tost_p": 0.9191996749866298,
+            "is_equivalent": "False",
+            "p1": 0.7,
+            "p2": 0.9333333333333333,
+            "effect": 0.2333333333333334,
+            "z1": 1.3997084244475309,
+            "z2": -3.4992710611188262,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 0.5033997621968301,
+            "log_bf01": -0.686370668476444,
+            "p_h0_posterior": 0.1031,
+            "p_h0_prior": 0.1859,
+            "evidence_label": "weak_for_dose_response",
+            "delta": 0.1
+          },
+          "refusal_rate": 0.9333333333333333,
+          "n": 30
+        },
+        "3": {
+          "tost": {
+            "tost_p": 0.9915862952586216,
+            "is_equivalent": "False",
+            "p1": 0.7,
+            "p2": 1.0,
+            "effect": 0.30000000000000004,
+            "z1": 2.3904572186687876,
+            "z2": -4.780914437337574,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 0.06447580331971028,
+            "log_bf01": -2.741465266343001,
+            "p_h0_posterior": 0.0145,
+            "p_h0_prior": 0.1858,
+            "evidence_label": "strong_for_dose_response",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        },
+        "4": {
+          "tost": {
+            "tost_p": 0.9915862952586216,
+            "is_equivalent": "False",
+            "p1": 0.7,
+            "p2": 1.0,
+            "effect": 0.30000000000000004,
+            "z1": 2.3904572186687876,
+            "z2": -4.780914437337574,
+            "delta": 0.1
+          },
+          "bayes_factor": {
+            "bf01": 0.06447580331971028,
+            "log_bf01": -2.741465266343001,
+            "p_h0_posterior": 0.0145,
+            "p_h0_prior": 0.1858,
+            "evidence_label": "strong_for_dose_response",
+            "delta": 0.1
+          },
+          "refusal_rate": 1.0,
+          "n": 30
+        }
+      }
+    }
+  },
+  "hierarchical_bayesian": {
+    "Claude-3-Haiku": {
+      "beta_mean": 1.544815410513539,
+      "beta_std": 0.6691547138492215,
+      "beta_ci_95": [
+        0.25423728813559343,
+        2.796610169491526
+      ],
+      "classification": "dose_responsive",
+      "levels_used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "refusal_rates_by_level": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "GPT-4o-Mini": {
+      "beta_mean": 1.3830435706023607,
+      "beta_std": 0.6707712305881784,
+      "beta_ci_95": [
+        0.15254237288135597,
+        2.694915254237289
+      ],
+      "classification": "dose_responsive",
+      "levels_used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "refusal_rates_by_level": [
+        0.9666666666666667,
+        1.0,
+        0.9666666666666667,
+        1.0,
+        1.0
+      ]
+    },
+    "Llama-3.1-8B": {
+      "beta_mean": 1.2148568038947054,
+      "beta_std": 0.6715683197376388,
+      "beta_ci_95": [
+        -0.05084745762711851,
+        2.593220338983051
+      ],
+      "classification": "plateau",
+      "levels_used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "refusal_rates_by_level": [
+        0.9333333333333333,
+        0.9333333333333333,
+        0.9333333333333333,
+        1.0,
+        1.0
+      ]
+    },
+    "Mistral-Nemo": {
+      "beta_mean": 2.090903989641051,
+      "beta_std": 0.5522270342161439,
+      "beta_ci_95": [
+        0.8644067796610173,
+        3.0
+      ],
+      "classification": "dose_responsive",
+      "levels_used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "refusal_rates_by_level": [
+        0.7,
+        0.9,
+        0.9333333333333333,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "summary": {
+    "Claude-3-Haiku": {
+      "classification": "plateau",
+      "median_bf01": 126.57476239072788,
+      "beta_mean": 1.544815410513539,
+      "baseline_refusal_rate": 1.0
+    },
+    "GPT-4o-Mini": {
+      "classification": "plateau",
+      "median_bf01": 38.98867683136212,
+      "beta_mean": 1.3830435706023607,
+      "baseline_refusal_rate": 0.9666666666666667
+    },
+    "Llama-3.1-8B": {
+      "classification": "inconclusive",
+      "median_bf01": 19.165412370216,
+      "beta_mean": 1.2148568038947054,
+      "baseline_refusal_rate": 0.9333333333333333
+    },
+    "Mistral-Nemo": {
+      "classification": "dose_responsive",
+      "median_bf01": 0.2839377827582702,
+      "beta_mean": 2.090903989641051,
+      "baseline_refusal_rate": 0.7
+    }
+  }
+}

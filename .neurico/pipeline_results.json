@@ -1,0 +1,27 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/literature_review.md",
+        "resources_catalog": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/resources.md",
+        "papers_dir": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/papers",
+        "datasets_dir": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/datasets",
+        "code_dir": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/code"
+      },
+      "log_file": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 1091.4441537857056
+    },
+    "experiment_runner": {
+      "success": false,
+      "return_code": 1,
+      "elapsed_time": 10612.458022356033,
+      "log_file": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/logs/execution_claude.log",
+      "transcript_file": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39/logs/execution_claude_transcript.jsonl"
+    }
+  },
+  "work_dir": "/workspaces/when_null_results_are_the_sign_20260623_202042_a90ebc39"
+}

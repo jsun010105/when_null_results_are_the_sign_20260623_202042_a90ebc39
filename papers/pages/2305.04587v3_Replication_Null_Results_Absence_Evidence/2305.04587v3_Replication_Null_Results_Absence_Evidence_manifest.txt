@@ -1,0 +1,11 @@
+PDF: papers/2305.04587v3_Replication_Null_Results_Absence_Evidence.pdf
+Total pages: 18
+Pages per chunk: 3
+
+Chunks:
+  2305.04587v3_Replication_Null_Results_Absence_Evidence_chunk_001.pdf: pages 1-3
+  2305.04587v3_Replication_Null_Results_Absence_Evidence_chunk_002.pdf: pages 4-6
+  2305.04587v3_Replication_Null_Results_Absence_Evidence_chunk_003.pdf: pages 7-9
+  2305.04587v3_Replication_Null_Results_Absence_Evidence_chunk_004.pdf: pages 10-12
+  2305.04587v3_Replication_Null_Results_Absence_Evidence_chunk_005.pdf: pages 13-15
+  2305.04587v3_Replication_Null_Results_Absence_Evidence_chunk_006.pdf: pages 16-18
